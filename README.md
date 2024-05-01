@@ -10,7 +10,7 @@ Data Cleaning and Conversion: The PerformanceRating column in the EmpPerformance
 3.Data Transfer: The contents of the tables in the backup database are copied to the main Human_Resources database, ensuring data consistency between the two databases.
 4.Informative SQL Queries: A set of SQL queries is provided to analyze the data in the Human_Resources database, covering aspects such as employee distribution, salary analysis, department performance, and recruitment source analysis. These queries can help the organization make informed decisions based on the data
 
-https://drive.google.com/file/d/1d8L1it_fPnkXA2GleZu-CP5ipe9gXa1P/view?usp=sharing
+https://drive.google.com/file/d/1d8L1it_fPnkXA2GleZu-CP5ipe9gXa1P/view?usp=drive_link
 
 https://drive.google.com/file/d/1BkmDFo--6ISLv66JHxKGTlDG6YysD64l/view?usp=drive_link
 
